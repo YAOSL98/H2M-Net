@@ -26,6 +26,6 @@ python main.py \
 ```
 
 ### 🙏 Acknowledgements
-Our codebase is built upon or inspired by the following excellent open-source project. We express our sincere gratitude to the authors for their wonderful work:
+Our codebase is built upon the following excellent open-source project. We express our sincere gratitude to the authors for their wonderful work:
 
 BiGen: https://github.com/DeepMed-Lab-ECNU/BiGen.
